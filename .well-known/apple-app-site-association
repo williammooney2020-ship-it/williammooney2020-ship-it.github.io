@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["MQT73LQHNU.com.hoodwink.no1"],
+        "components": [
+          { "/": "/hoodwink/*", "comment": "Hoodwink universal links" },
+          { "/": "*", "comment": "Any path opens the app" }
+        ]
+      }
+    ]
+  }
+}
